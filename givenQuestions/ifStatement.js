@@ -1,5 +1,5 @@
-function ifStatement(int) {
-    if (int == 4) {
+function ifStatement(i) {
+    if (i == 4) {
         return true
     }
     return false;
